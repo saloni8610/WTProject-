@@ -1,0 +1,104 @@
+a:link
+{
+color:red;
+}
+a:hover
+{
+	color: pink;
+}
+a:visited
+{
+	color:green;
+}
+body
+{
+	background-image:url("event-management-1.jpg");
+	margin: 0px;
+	border:0px;
+}
+body .header 
+{
+	margin: 0px;
+	border:0px;
+	position:absolute;
+	display:block;
+	width:100%;
+	height:100px;
+	background-color:black;
+}
+.header ul
+{
+	border:0px;
+	margin:0px;
+	background-color:transparent;
+}
+.header li
+{	margin:0px;
+    border:0px;
+	display:inline;
+	height:100px;
+}
+ .header a
+{	
+	margin:0px,20px,0px,0px;
+	border:0px;
+	min-height:100px;
+	float:right;
+	line-height:80px;
+	margin-right:20px;
+	text-decoration:none;
+	text-transform:capitalize;
+	font-family:"Comic Sans MS", cursive;
+	}
+body .header1 
+{
+	display:inline;
+	margin:0px;
+	border:0px;
+	position:absolute;
+	top:100px;
+    max-height:80px;
+	background-color:blue;
+	line-height:80px;
+	padding-right:25px;
+	text-align:center;
+}	
+body .header1 img
+{
+	margin: 0px;
+	border:0px;
+	display:inline;
+	float:left;
+	max-height:80px;
+	width:400px;
+}
+.header1 p 
+{
+	margin:0px;
+    max-width:100px;
+	position:relative;
+	left:1220px;
+	top:-20px;
+	border-width:10px;
+	border-color:white;
+	background-color:white;
+	height:20px;
+    text-align:center;
+}
+.header1 p a
+{
+	margin:0px;
+	position:relative;
+	left:0px;
+	top:-30px;
+text-align:center;	
+}
+.header1 #img1
+{
+	width:60px;
+	position:relative;
+	left:840px;
+	margin:0px;
+
+}
+
